@@ -1,0 +1,12 @@
+Projeto de Estudo - Versionamento de Código
+
+Este é um exemplo simples de arquivo para simular um repositório Git.
+
+Tarefas:
+- Criar estrutura de pastas
+- Inicializar repositório Git
+- Fazer primeiro commit
+- Criar nova branch para desenvolvimento
+- Mesclar branch no main
+
+Autor: Pedro Antônio
