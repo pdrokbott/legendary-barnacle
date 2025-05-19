@@ -6,8 +6,7 @@ Tarefas:
 - Criar estrutura de pastas
 - Inicializar repositório Git
 - Fazer primeiro commit
-- Criar nova branch para desenvolvimento
-- Mesclar branch no main
+
 
 Autor: Pedro Antônio
 Asdd
